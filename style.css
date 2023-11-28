@@ -14,3 +14,10 @@ font-size: 30px;
 body{
     background-color: aqua;
 }
+header{
+    padding: 20px;
+    background-color: blue;
+    border-color: 2px solid white;
+    font-size: 32px;
+    color: black;
+}
